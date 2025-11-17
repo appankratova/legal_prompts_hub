@@ -76,8 +76,8 @@ Legal Prompts Hub — первое русскоязычное open source соо
 
 ## 🤝 Сообщество
 
-- 💬 **Telegram-канал:** [Legal Prompts Hub](https://t.me/your_channel)
-- 📖 **База знаний:** [GitBook](https://your-gitbook-url)
+- 💬 **Telegram-канал:** [Legal Prompts Hub]((https://t.me/+Y2vZM0KbRyJiM2Yy)
+- 📖 **База знаний:** [GitBook](https://legal-prompts-hub-open-source.gitbook.io/legal-prompts-hub))
 - 🐛 **Нашли ошибку?** [Issue](https://github.com/your-repo/issues)
 - 💡 **Есть идея?** [Discussions](https://github.com/your-repo/discussions)
 
@@ -105,7 +105,7 @@ Legal Prompts Hub — первое русскоязычное open source соо
 
 - 🌐 GitBook: [legalpromptshub.ai](https://legal-prompts-hub-open-source.gitbook.io/legal-prompts-hub/)
 - 📧 Email: appankratova@gmail.com
-- 💬 Telegram: [@appankratova](https://t.me/+Y2vZM0KbRyJiM2Yy)
+- 💬 Telegram: [@legal promts hub](https://t.me/+Y2vZM0KbRyJiM2Yy)
 
 ---
 
