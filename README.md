@@ -56,7 +56,7 @@ Legal Prompts Hub — первое русскоязычное open source соо
 | Кейс | Уровень | Техники | Источник данных |
 |------|---------|---------|-----------------|
 | 🔥 [Анализ решений ФАС](./cases/case-01-fas-antimonopoly/) | Средний | Zero-shot, Few-shot, CoT | API ФАС |
-| [Проверка NDA на риски](./cases/case-02-nda-review/) | Базовый | Structured output | Типовой договор |
+| 🔥 [Проверка NDA на риски](./cases/case-02-nda-review/) | Базовый | Structured output | Типовой договор |
 | *(скоро)* Research судебной практики | Продвинутый | RAG, Multi-step | КАД Арбитр |
 
 ---
@@ -76,8 +76,8 @@ Legal Prompts Hub — первое русскоязычное open source соо
 
 ## 🤝 Сообщество
 
-- 💬 **Telegram-канал:** [Legal Prompts Hub]((https://t.me/+Y2vZM0KbRyJiM2Yy)
-- 📖 **База знаний:** [GitBook](https://legal-prompts-hub-open-source.gitbook.io/legal-prompts-hub))
+- 💬 **Telegram-канал:** [Legal Prompts Hub](https://t.me/+Y2vZM0KbRyJiM2Yy)
+- 📖 **База знаний:** [GitBook](https://legal-prompts-hub-open-source.gitbook.io/legal-prompts-hub)
 - 🐛 **Нашли ошибку?** [Issue](https://github.com/your-repo/issues)
 - 💡 **Есть идея?** [Discussions](https://github.com/your-repo/discussions)
 
