@@ -65,10 +65,10 @@ GPL v3 не запрещает коммерческое использовани
 
 ## Контакты и обратная связь
 
-Если у вас возник вопрос, идея, предложение или нужна помощь:
-- Создайте тему в [Discussions](https://github.com/appankratova/legal_promts_hub/discussions)
-- Или напишите issue, если речь идёт о баге или чёткой задаче по улучшению.
-- Telegram-чат для обсуждений доступен по ссылке в [README.md](./README.md)
+- [Discussions](https://github.com/appankratova/legal_promts_hub/discussions) — любые вопросы, идеи, предложения, помощь
+- [Issues](https://github.com/appankratova/legal_promts_hub/issues) — баги, ошибки, технические задачи
+- Telegram-чат — ссылка и инструкция в [README.md](https://github.com/appankratova/legal_promts_hub/blob/main/README.md)
+
 
 Спасибо за вклад в развитие Legal Prompts Hub!
 
