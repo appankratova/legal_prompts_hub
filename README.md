@@ -5,8 +5,8 @@
 > Делаем LegalAI доступным каждому юристу в России
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-yellow.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Telegram](https://img.shields.io/badge/Telegram-Legal%20Prompts%20Hub-blue)](https://t.me/your_channel)
-[![GitBook](https://img.shields.io/badge/Docs-GitBook-orange)](https://your-gitbook-url)
+[![Telegram](https://img.shields.io/badge/Telegram-Legal%20Prompts%20Hub-blue)](https://t.me/+Y2vZM0KbRyJiM2Yy)
+[![GitBook](https://img.shields.io/badge/Docs-GitBook-orange)](https://legal-prompts-hub-open-source.gitbook.io/legal-prompts-hub)
 
 ---
 
@@ -27,6 +27,8 @@ Legal Prompts Hub — первое русскоязычное open-source соо
 
 ## ⚡ Быстрый старт
 
+- Если заметили ошибку или хотите предложить идею — создайте [Issue](https://github.com/appankratova/legal_promts_hub/issues) или присоединяйтесь к [Discussions](https://github.com/appankratova/legal_promts_hub/discussions).
+- 
 ### Хочу использовать готовый промпт
 1. Перейди в [`prompts/`](./prompts/)
 2. Выбери категорию (анализ договоров, research, составление документов)
@@ -78,8 +80,8 @@ Legal Prompts Hub — первое русскоязычное open-source соо
 
 - 💬 **Telegram-канал:** [Legal Prompts Hub](https://t.me/+Y2vZM0KbRyJiM2Yy)
 - 📖 **База знаний:** [GitBook](https://legal-prompts-hub-open-source.gitbook.io/legal-prompts-hub)
-- 🐛 **Нашли ошибку?** [Issue](https://github.com/your-repo/issues)
-- 💡 **Есть идея?** [Discussions](https://github.com/your-repo/discussions)
+- 🐛 **Нашли ошибку?** [Issue](https://github.com/appankratova/legal_promts_hub/issues)
+- 💡 **Есть идея?** [Discussions](https://github.com/appankratova/legal_promts_hub/discussions)
 
 ---
 
