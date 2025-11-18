@@ -28,7 +28,7 @@ Legal Prompts Hub — первое русскоязычное open-source соо
 ## ⚡ Быстрый старт
 
 - Если заметили ошибку или хотите предложить идею — создайте [Issue](https://github.com/appankratova/legal_promts_hub/issues) или присоединяйтесь к [Discussions](https://github.com/appankratova/legal_promts_hub/discussions).
-- 
+
 ### Хочу использовать готовый промпт
 1. Перейди в [`prompts/`](./prompts/)
 2. Выбери категорию (анализ договоров, research, составление документов)
