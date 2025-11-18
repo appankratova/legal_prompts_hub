@@ -105,7 +105,7 @@ Legal Prompts Hub — первое русскоязычное open-source соо
 
 - 🌐 GitBook: [legalpromptshub.ai](https://legal-prompts-hub-open-source.gitbook.io/legal-prompts-hub/)
 - 📧 Email: appankratova@gmail.com
-- 💬 Telegram: [@legalpromtshub](https://t.me/+Y2vZM0KbRyJiM2Yy)
+- 💬 Telegram: [@legalpromtshub](https://t.me/+FTkLsbpTFWY0YTQy)
 
 ---
 
