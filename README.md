@@ -4,7 +4,7 @@
 
 > Делаем LegalAI доступным каждому юристу в России
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-yellow.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Telegram](https://img.shields.io/badge/Telegram-Legal%20Prompts%20Hub-blue)](https://t.me/your_channel)
 [![GitBook](https://img.shields.io/badge/Docs-GitBook-orange)](https://your-gitbook-url)
 
