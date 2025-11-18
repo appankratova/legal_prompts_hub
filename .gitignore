@@ -1,0 +1,184 @@
+# ============================================
+# Legal Prompts Hub - .gitignore
+# ============================================
+
+# ----------------
+# Operating System
+# ----------------
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+
+# ----------------
+# Editors & IDEs
+# ----------------
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# JetBrains (PyCharm, IntelliJ, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+.#*
+
+# ----------------
+# Python
+# ----------------
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Pytest
+.pytest_cache/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# ----------------
+# Node.js
+# ----------------
+
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ----------------
+# Temporary & Cache Files
+# ----------------
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# ----------------
+# Sensitive Data
+# ----------------
+
+# API keys and credentials
+.env
+.env.local
+.env.*.local
+secrets.json
+credentials.json
+*.key
+*.pem
+
+# Private data
+/data/private/
+/data/raw/
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# Personal notes
+TODO.md
+NOTES.md
+.personal/
+
+# ----------------
+# Build & Deploy
+# ----------------
+
+# Docker
+docker-compose.override.yml
+
+# ----------------
+# Miscellaneous
+# ----------------
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Backups
+*.backup
+backup/
+
+# ----------------
+# Parsed Legal Data
+# ----------------
+
+# Raw data from APIs (may contain sensitive info)
+/data/raw/
+/data/downloads/
+
+# Processed datasets (if large)
+/data/processed/*.csv
+/data/processed/*.json
+
+# Allow example data
+!/data/examples/
