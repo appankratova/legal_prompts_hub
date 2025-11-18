@@ -23,7 +23,7 @@ def search_company(query):
     return data["items"]
 
 if __name__ == "__main__":
-    test_inn = "7707083893"
+    test_inn = "7725499157"
     results = search_company(test_inn)
 
     # Фильтруем только действующее юрлицо с нужным ИНН
