@@ -4,9 +4,11 @@
 
 > Делаем LegalAI доступным каждому юристу в России
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-yellow.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Telegram](https://img.shields.io/badge/Telegram-Legal%20Prompts%20Hub-blue)](https://t.me/+Y2vZM0KbRyJiM2Yy)
 [![GitBook](https://img.shields.io/badge/Docs-GitBook-orange)](https://legal-prompts-hub-open-source.gitbook.io/legal-prompts-hub)
+[![Report Violation](https://img.shields.io/badge/Report-Violation-red)](https://github.com/appankratova/legal_promts_hub/issues/new?template=violation-report.yml)
+[![Security Policy](https://img.shields.io/badge/Security-Policy-green)](SECURITY.md)
 
 ---
 
