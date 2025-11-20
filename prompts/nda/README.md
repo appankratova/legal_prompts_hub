@@ -10,4 +10,4 @@
 
 **Лицензия:** 
 
-Все материалы в этой папке распространяются под лицензией [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Все материалы в этой папке распространяются под лицензией [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
