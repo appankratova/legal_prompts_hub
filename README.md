@@ -10,6 +10,10 @@
 [![Report Violation](https://img.shields.io/badge/Report-Violation-red)](https://github.com/appankratova/legal_promts_hub/issues/new?template=violation-report.yml)
 [![Security Policy](https://img.shields.io/badge/Security-Policy-green)](SECURITY.md)
 
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/arthrod/prompting)
+
+
 [📚 Руководство](https://legal-prompts-hub-open-source.gitbook.io/legal-prompts-hub) • 
 [💬 Сообщество](https://t.me/+Y2vZM0KbRyJiM2Yy) • 
 [🚨 Сообщить о нарушении](https://github.com/appankratova/legal_promts_hub/issues/new?template=violation-report.yml)
