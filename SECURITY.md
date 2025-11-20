@@ -293,7 +293,7 @@ _Пока пусто — станьте первым!_
 
 **Контакты:**
 - 📧 Security email: appankratova@gmail.com
-- 💬 Telegram: @appankratova
+- 💬 Telegram: t.me/appankratova
 - 🐛 GitHub Issues: [Create Issue](https://github.com/legal-prompts-hub/issues/new)
 
 ---
