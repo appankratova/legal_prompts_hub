@@ -11,8 +11,6 @@
 [![Security Policy](https://img.shields.io/badge/Security-Policy-green)](SECURITY.md)
 
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/appankratova/legal_promts_hub)
-
 
 [📚 Руководство](https://legal-prompts-hub-open-source.gitbook.io/legal-prompts-hub) • 
 [💬 Сообщество](https://t.me/+Y2vZM0KbRyJiM2Yy) • 
