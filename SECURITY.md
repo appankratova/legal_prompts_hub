@@ -198,8 +198,11 @@ fingerprint_id: "LPH-2025-CATEGORY-XXXX"
 
 **2. Honeypot промpts**
 prompts/honeypots/
+
 ├── trap-contract-analysis.md
+
 ├── trap-litigation-strategy.md
+
 └── trap-legal-research.md
 
 → Специальные промпты с уникальными fingerprints для обнаружения плагиата
@@ -214,6 +217,7 @@ prompts/honeypots/
 - Публичный список нарушителей: [Hall of Shame](community/hall-of-shame.md)
 - Rewards для тех, кто сообщает о нарушениях (упоминание в CONTRIBUTORS.md)
 
+🚨 [Сообщить о нарушении](https://github.com/appankratova/legal_promts_hub/issues/new?template=violation-report.yml)
 ---
 
 ## 📊 Статистика безопасности
