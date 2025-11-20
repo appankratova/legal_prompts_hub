@@ -153,8 +153,6 @@
 - Процесс Community Policing через Hall of Shame
 
 
-**Если вы обнаружили нарушение нашей лицензии:**
-- Создайте Issue: [Сообщить о нарушении](https://github.com/appankratova/legal_promts_hub/issues/new?template=violation-report.yml)
 ---
 
 ## Контакты
