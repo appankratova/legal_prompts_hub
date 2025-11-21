@@ -74,7 +74,7 @@ Legal Prompts Hub — это **первый русскоязычный Open Sour
 🔗 **При использовании обязательна атрибуция:**
 > Материалы из Legal Prompts Hub (github.com/appankratova/legal_promts_hub)
 
-Подробнее: [LICENSE.md](LICENSE.md) | [Манифест](https://legal-prompts-hub-open-source.gitbook.io/legal-prompts-hub/manifesto)
+Подробнее: [LICENSE.md](LICENSE.md) | [Манифест](https://legal-prompts-hub-open-source.gitbook.io/legal-prompts-hub)
 
 ---
 
