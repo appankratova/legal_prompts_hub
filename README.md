@@ -30,7 +30,7 @@ Legal Prompts Hub — это **первый русскоязычный Open Sour
 
 **Наша миссия:** Разорвать круг фрагментарности знаний и сделать юридический ИИ честным и открытым.
 
-→ Читайте [Манифест](https://legal-prompts-hub-open-source.gitbook.io/legal-prompts-hub/manifesto)
+→ Читайте [Манифест](https://legal-prompts-hub-open-source.gitbook.io/legal-prompts-hub)
 
 ---
 
