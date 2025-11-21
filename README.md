@@ -101,8 +101,6 @@ Legal Prompts Hub — это **первый русскоязычный Open Sour
 
 ## 📞 Контакты
 
-- 📧 Email: appankratova@gmail.com
-- 💬 Telegram: [@Анастасия Антоновская](https://t.me/appankratova)
 - 🗣️ Канал: [Legal Prompts Hub](https://t.me/+Y2vZM0KbRyJiM2Yy)
 - 📚 Документация: [GitBook](https://legal-prompts-hub-open-source.gitbook.io/legal-prompts-hub)
 
