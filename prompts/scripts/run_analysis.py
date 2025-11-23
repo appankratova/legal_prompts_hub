@@ -1,7 +1,6 @@
 import sys
 import os
 
-# Добавляем корневую папку в путь, чтобы Python видел папку pii_guard
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from pii_guard.protection import LegalPIIGuard
