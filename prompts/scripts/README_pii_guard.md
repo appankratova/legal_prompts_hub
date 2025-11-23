@@ -52,7 +52,7 @@
 1.  Создайте папку на рабочем столе (например, `Legal_AI`).
 2.  Положите в неё файл договора, который хотите проверить, и назовите его **`contract.docx`**.
 3.  Откройте эту папку в **VS Code**.
-4.  Создайте файл **`legal_pii_guard.py`** и вставьте в него код из этого репозитория.
+4.  Создайте файл **`legal_pii_guard.py`** и вставьте в него код из этого [репозитория](https://github.com/appankratova/legal_promts_hub/blob/main/prompts/scripts/legal_pii_guard.py).
 5.  Откройте терминал в VS Code и установите библиотеки:
     ```bash
     pip install openai colorama python-docx
