@@ -7,7 +7,6 @@
 ## 1. ЕГРЮЛ (ед. гос. реестр юр. лиц)
 
 **Где брать данные:**
-- https://vypiska-nalog.com/egrul
 - https://egrul.nalog.ru
 - https://api-fns.ru/ (API)
 
