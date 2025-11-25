@@ -1,4 +1,4 @@
-# Интеграция с государственными реестрами РФ для M&A: техно-гайд
+  # Интеграция с государственными реестрами РФ для M&A: техно-гайд
 
 Для расширения возможностей промптов — используйте данные открытых государственных реестров. Это повысит точность due diligence, disclosure letter, судебного анализа.
 
@@ -25,7 +25,7 @@
 JSON/CSV
 
 **Пример вызова (API fns):**
-GET https://api-fns.ru/api/search?q=ИНН
+    GET https://api-fns.ru/api/search?q=ИНН
 
 ---
 
@@ -84,14 +84,14 @@ GET https://api-fns.ru/api/search?q=ИНН
 3. Собрать данные в единый JSON/CSV и использовать их в input промпта.
 
 ## Пример коннектора (Python-псевдокод):
-import requests
+    import requests
 
-def get_egrul_company(inn):
-url = f'https://api-fns.ru/api/search?q={inn}'
-resp = requests.get(url)
-return resp.json()
+    def get_egrul_company(inn):
+    url = f'https://api-fns.ru/api/search?q={inn}'
+    resp = requests.get(url)
+    return resp.json()
 
-def get_kad_court_cases(inn):
+    def get_kad_court_cases(inn):
 
 
 ## Как подать результаты ИИ:
