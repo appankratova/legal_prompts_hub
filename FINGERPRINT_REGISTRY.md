@@ -28,7 +28,7 @@
 
 | Fingerprint | Название | Автор | Дата | Файл |
 |-------------|----------|-------|------|------|
-| `LPH-2025-TPL-0001` | Комплексная проверка контрагента | @username | 2025-11-25 | `prompts/templates/kontragent-check-modular.md` |
+| `LPH-2025-TPL-0001` | Комплексная проверка контрагента | @username | 2025-11-25 | `prompts/kontragent/kontragent.md` |
 
 ---
 
